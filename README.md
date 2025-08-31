@@ -1,2 +1,2 @@
-# MGS.Laboratory
-Laboratory of Unity and C# exploration.
+# MGS.Tests
+Unity and C# explore tests.
